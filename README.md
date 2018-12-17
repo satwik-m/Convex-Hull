@@ -5,7 +5,7 @@
 1. The points are divided into clusters and their respective convex hulls are found and combined
 1. One more time the algorithm is applied to obtain the final Convex Hull
 1. The parallelization is done in 3 ways using the following:
-* Bullet list OpenMP
-* Bullet list MPI
-* Bullet list Hybrid ( OpenMP + MPI )
+* OpenMP
+* MPI
+* Hybrid ( OpenMP + MPI )
 
